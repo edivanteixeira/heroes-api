@@ -1,5 +1,5 @@
 # heros-api
-hero test project
+heroes test project
 
 
 ## Objective
